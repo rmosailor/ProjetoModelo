@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/04/14 10:11:25.000.255,=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/04/29 15:56:51.000.643,=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/22 22:59:56.000.577,=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/22 23:02:51.000.995,=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/22 23:16:49.000.148,=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/22 23:33:36.000.291,C:\Projetos\Delphi\ExemploCadastro\view\Unit1.pas=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/22 23:33:36.000.291,C:\Projetos\Delphi\ExemploCadastro\view\Unit1.dfm=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/22 23:33:43.000.897,C:\Projetos\Delphi\ExemploCadastro\Project1.dproj=C:\Users\Roberto Marujo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/05/23 00:02:46.000.987,=C:\Projetos\Delphi\ExemploCadastro\view\UFormCadastroProdutos.pas</Transaction>
+    <Transaction>2026/05/23 00:12:32.000.351,=C:\Projetos\Delphi\ExemploCadastro\entity\uConexao.Singleton.pas</Transaction>
+    <Transaction>2026/05/23 00:12:32.000.377,=C:\Projetos\Delphi\ExemploCadastro\entity\UProduto.Model.pas</Transaction>
+    <Transaction>2026/05/23 13:15:27.000.578,C:\Projetos\Delphi\ExemploCadastro\Project1.dproj=C:\Projetos\Delphi\ExemploCadastro\ProjetoModelo.dproj</Transaction>
+    <Transaction>2026/05/23 16:45:20.000.217,C:\Projetos\Delphi\ExemploCadastro\view\Unit1.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
